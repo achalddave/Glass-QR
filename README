@@ -1,0 +1,6 @@
+# QR Code Detection
+
+Simple app that uses [zxing-lib](https://github.com/kennydude/zxing-lib)* for a QR code app. 
+
+* Note: Currently I am using [my fork](https://github.com/achalddave/zxing-lib)
+  as there are some issues with the original
